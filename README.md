@@ -48,7 +48,3 @@ Contributions are welcome! If you have any suggestions, bug fixes, or feature im
 3. Make your changes and commit them with descriptive messages.
 4. Push your changes to your fork.
 5. Submit a pull request to the main repository.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
